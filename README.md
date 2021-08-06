@@ -33,8 +33,13 @@ Run the following commands on your machine or in a virtual environment using pyt
 		  select that folder as your install directory.
 		
 ### GitHub Repository:
+
 Github - [Link to Repository](https://github.com/Mgonzalez-droid/Project-Fenrir)
 	
 ### Issue Tracking:
 
 Trello - [Link to Taskboard](https://trello.com/invite/b/pMsEE5Pa/c4f2f2cce09ad5ea0dd376af2f40d3e4/taskboard)
+
+### Link to Distributable
+
+https://drive.google.com/drive/folders/1qN7Ob2DlHh5oPnsTV0g0FimAdOaynxB-?usp=sharing
